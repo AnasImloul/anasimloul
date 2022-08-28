@@ -11,7 +11,7 @@
 
 
 <br><br>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="320px" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="330px" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -33,7 +33,7 @@
 
 <p align="left">
 <a href="https://github.com/AnasImloul">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnasImloul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnasImloul&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnasImloul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnasImloul&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
