@@ -3,7 +3,6 @@
 
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-https://wetransfer.com/downloads/d7dc4229542bb0255273f6883e7779ab20230512202754/482540b015f4dd728cd35976f7a3ee7d20230512202804/5d6a74
 
 <h3 align="left">👨🏻‍💻  About Me</h3>
  💡  I enjoy learning about new technologies and creating software solutions and quick hacks.<br>
