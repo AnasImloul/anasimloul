@@ -7,7 +7,7 @@
 <h3 align="left">👨🏻‍💻  About Me</h3>
  💡  I enjoy learning about new technologies and creating software solutions and quick hacks.<br>
 🎓  I am currently pursuing a degree in software engineering at Morocco's National Institute of Posts and Telecommunications in Rabat.<br>
-🌱  I'm on track to expand my knowledge of software design patterns, systems design, and cloud architecture.<br>
+🌱  I'm on track to expand my knowledge of software design patterns, systems design, and compilers architecture.<br>
 ✍️  In my spare time, I am very interested in competitive programming and problem solving.<br>
 
 
