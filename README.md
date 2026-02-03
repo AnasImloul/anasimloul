@@ -6,9 +6,13 @@
 <h3 align="left">👨🏻‍💻 About Me</h3>
 
 💡  Software Engineer currently working at **Boston Consulting Group (BCG)** in Casablanca.  
+
 🎓  Graduate of the **National Institute of Posts and Telecommunications (INPT)**, Class of 2024.  
+
 🚀  Passionately focused on **High-Performance Computing**, **Low-Latency Systems**, and **Distributed Systems**.  
-🏆  Competitive programming enthusiast, contest contributor, and tutor.
+
+🏆  Competitive programming enthusiast, contest contributor.
+
 📸  When I'm not coding, you'll find me playing the piano or doing landscape photography.
 
 <br><br>
