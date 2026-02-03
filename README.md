@@ -1,34 +1,31 @@
-<h3 align="center">I am Anas Imloul. A software engineer in the making.</h3>
+<h3 align="center">I am Anas Imloul. Software Engineer.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AnasImloul&label=Profile%20views&color=0e75b6&style=flat" alt="Anas Imloul" /> </p>
 
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
+<h3 align="left">👨🏻‍💻 About Me</h3>
 
-<h3 align="left">👨🏻‍💻  About Me</h3>
- 💡  I enjoy learning about new technologies and creating software solutions and quick hacks.<br>
-🎓  I am currently pursuing a degree in software engineering at Morocco's National Institute of Posts and Telecommunications in Rabat.<br>
-🌱  I'm on track to expand my knowledge of software design patterns, systems design, and compilers architecture.<br>
-✍️  In my spare time, I am very interested in competitive programming and problem solving.<br>
-
+💡  Software Engineer currently working at **Boston Consulting Group (BCG)** in Casablanca.  
+🎓  Graduate of the **National Institute of Posts and Telecommunications (INPT)**, Class of 2024.  
+🚀  Passionately focused on **High-Performance Computing**, **Low-Latency Systems**, and **Distributed Systems**.  
+🏆  Competitive programming enthusiast, contest contributor, and tutor.
+📸  When I'm not coding, you'll find me playing the piano or doing landscape photography.
 
 <br><br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="330px" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack & Interests
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)\
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
 <br><br>
 ### ⚙️ &nbsp;GitHub Analytics
 
