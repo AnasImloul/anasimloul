@@ -1,43 +1,29 @@
-<h3 align="center">I am Anas Imloul. Software Engineer.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AnasImloul&label=Profile%20views&color=0e75b6&style=flat" alt="Anas Imloul" /> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Anas Imloul, Software Engineer. Distributed systems, low-latency backends and reliability." src="assets/banner-light.svg">
+</picture>
 
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+I'm a software engineer at **BCG X** in Casablanca, working on distributed backends and the reliability work around them: latency profiling, capacity planning, failure handling under provider quotas, and infrastructure as code. I shipped a production real-time voice platform on OpenShift, and I build systems tools in Rust and Go on the side.
 
-<h3 align="left">👨🏻‍💻 About Me</h3>
+Engineering diploma from **INPT** (2024). IEEEXtreme 17.0 top 6% globally, 2nd in Morocco.
 
-💡  Software Engineer currently working at **Boston Consulting Group (BCG)** in Casablanca.  
+## Selected work
 
-🎓  Graduate of the **National Institute of Posts and Telecommunications (INPT)**, Class of 2024.  
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**jsq**](https://github.com/AnasImloul/jsq) | SQL-shaped query language for multi-GB JSON. Single memory-mapped pass, about 34 MiB of RAM on a 1 GB file. | Rust |
+| [**diagr**](https://github.com/AnasImloul/diagr) | Declarative diagrams in YAML: static SVG in light and dark, plus a self-contained interactive page. [Demo](https://anasimloul.github.io/diagr/) | HTML |
+| [**procedural-art**](https://github.com/AnasImloul/procedural-art) | Seeded, deterministic landscape art: stills, SVG and looping video. [Live](https://landscapes.imloul.com) | TypeScript |
+| [**twenty48**](https://github.com/AnasImloul/twenty48) | A 2048 engine and an expectimax agent that plays it to 32768. | Rust |
+| [**domjudge-cli**](https://github.com/AnasImloul/domjudge-cli) | CLI to set up and manage coding contests on DOMjudge. | Python |
+| **Prism** | Event-driven video platform on AWS: SQS-fed FFmpeg workers, HLS via Cloudflare, Terraform, runbook. [prism.imloul.com](https://prism.imloul.com) | Go, Terraform |
 
-🚀  Passionately focused on **High-Performance Computing**, **Low-Latency Systems**, and **Distributed Systems**.  
+## Stack
 
-🏆  Competitive programming enthusiast, contest contributor.
+**Languages** C++, Go, Rust, Python, Java, TypeScript, SQL  
+**Systems** gRPC, WebSockets, Redis, PostgreSQL, MongoDB, DynamoDB, SQS  
+**Infrastructure** AWS, Kubernetes, OpenShift, Docker, Terraform, CI/CD
 
-📸  When I'm not coding, you'll find me playing the piano or doing landscape photography.
+## Elsewhere
 
-<br><br>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="330px" align="right"/>
-
-### 🛠 &nbsp;Tech Stack & Interests
-
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br><br>
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<a href="https://github.com/AnasImloul">
-  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnasImloul&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnasImloul&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-![](https://hit.yhype.me/github/profile?user_id=76872415)
+[Website](https://imloul.com) · [LinkedIn](https://www.linkedin.com/in/anas-imloul/) · [LeetCode solutions](https://github.com/AnasImloul/Leetcode-Solutions) (7,000+ solutions, 400+ stars)
