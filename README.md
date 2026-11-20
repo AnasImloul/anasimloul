@@ -23,7 +23,3 @@ Engineering diploma from **INPT** (2024). IEEEXtreme 17.0 top 6% globally, 2nd i
 **Languages** C++, Go, Rust, Python, Java, TypeScript, SQL  
 **Systems** gRPC, WebSockets, Redis, PostgreSQL, MongoDB, DynamoDB, SQS  
 **Infrastructure** AWS, Kubernetes, OpenShift, Docker, Terraform, CI/CD
-
-## Elsewhere
-
-[Website](https://imloul.com) · [LinkedIn](https://www.linkedin.com/in/anas-imloul/) · [LeetCode solutions](https://github.com/AnasImloul/Leetcode-Solutions) (7,000+ solutions, 400+ stars)
